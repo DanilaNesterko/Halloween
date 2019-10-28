@@ -75,3 +75,17 @@ body{
         "cta2";
     }
 }
+
+li{
+    list-style-type: none;
+}
+
+.menu ul{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.menu a{
+    
+}
